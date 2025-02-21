@@ -1,6 +1,6 @@
 Each sentence length: 
-14 1 13 1 14 
+10 4 38 14 21 19 24 26 13 16 26 
 
 Sentence statistics:
-Average words per sentence: 8.6
-Cluster Score: 12.8
+Average words per sentence: 19.2727
+Cluster Score: 10.5455 (above 10 means longer/shorter sentences arent clustered, below 7 means longer/shorter are clustered)
